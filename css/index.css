@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(167, 219, 236);
+  }
+  
+  h1 {
+    color: rgb(226, 37, 154);
+    text-align: left;
+  }
+  h2 {
+    color: rgb(226, 37, 154);
+    text-align: left;
+  }
+  p {
+    color: rgb(226, 37, 154);
+    font-family: verdana;
+    font-size: 20px;
+  }
+  footer {
+    color: rgb(226, 37, 154);
+    text-align: left; 
+  }
